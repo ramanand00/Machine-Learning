@@ -155,46 +155,51 @@ python
 Copy code
 def add(a, b):
     return a + b
-2.2.7 Python Libraries for ML (Introduction)
-Library	Purpose
-NumPy	Mathematical operations
-Pandas	Data handling
-Matplotlib	Data visualization
-Scikit-Learn	ML algorithms
+    
+### 2.2.7 Python Libraries for Machine Learning (Introduction)
 
-2.2.8 Jupyter Notebook
+| Library        | Purpose                    |
+|---------------|----------------------------|
+| NumPy         | Mathematical operations    |
+| Pandas        | Data handling              |
+| Matplotlib    | Data visualization         |
+| Scikit-Learn  | Machine Learning algorithms|
+
+---
+
+### 2.2.8 Jupyter Notebook
+
 Jupyter Notebook is used to:
 
-Write Python code
+- Write Python code  
+- Visualize output  
+- Explain code step-by-step  
 
-Visualize output
+Widely used by:
+- Data Scientists  
+- ML Engineers  
+- Students  
 
-Explain code step-by-step
+---
 
-Widely used by Data Scientists, ML Engineers, Students
+## 2.3 Importance of Unit 2 in Machine Learning
 
-2.3 Importance of Unit 2 in Machine Learning
-Helps understand ML algorithms
+- Helps understand Machine Learning algorithms  
+- Makes data handling easier  
+- Improves problem-solving skills  
+- Required for real-world ML projects  
 
-Makes data handling easier
+---
 
-Improves problem-solving skills
+## 🎯 Exam-Oriented Questions
 
-Required for real-world ML projects
+1. Why is mathematics important in Machine Learning?  
+2. Explain the role of linear algebra in ML.  
+3. What is the use of statistics in Machine Learning?  
+4. Why is Python preferred for Machine Learning?  
 
-🎯 Exam-Oriented Questions
-Why is mathematics important in Machine Learning?
+### Write short notes on:
 
-Explain the role of linear algebra in ML.
-
-What is the use of statistics in Machine Learning?
-
-Why is Python preferred for Machine Learning?
-
-Write short notes on:
-
-Mean and Standard Deviation
-
-Gradient
-
-Jupyter Notebook
+- Mean and Standard Deviation  
+- Gradient  
+- Jupyter Notebook  
