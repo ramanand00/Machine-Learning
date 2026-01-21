@@ -163,16 +163,6 @@ A table that shows model predictions vs actual values:
 
 ---
 
-## 10.8 Summary of UNIT 10
-
-- Evaluation metrics depend on task type  
-- **Regression:** MAE, MSE, RMSE, R²  
-- **Classification:** Accuracy, Precision, Recall, F1-score, Confusion Matrix  
-- **ROC-AUC** evaluates classifier performance  
-- Cross-validation ensures model reliability  
-
----
-
 ## 🎯 Exam-Oriented Questions
 
 1. What is model evaluation?  

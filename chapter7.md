@@ -155,16 +155,6 @@ Technique to **evaluate model performance more reliably**
 
 ---
 
-## 7.11 Summary of UNIT 7
-
-- Model training teaches patterns  
-- Overfitting and underfitting affect performance  
-- Bias-variance tradeoff must be balanced  
-- Cross-validation improves reliability  
-- Regularization controls model complexity  
-
----
-
 ## 🎯 Exam-Oriented Questions
 
 1. What is model training?  

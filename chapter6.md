@@ -165,16 +165,6 @@
 
 ---
 
-## 6.11 Summary of UNIT 6
-
-- Works with **unlabeled data**  
-- **Clustering** groups similar data points  
-- **K-Means** is the most popular clustering algorithm  
-- **Hierarchical clustering** builds a tree structure  
-- **PCA** reduces feature dimensions  
-
----
-
 ## 🎯 Exam-Oriented Questions
 
 1. Define unsupervised learning.  

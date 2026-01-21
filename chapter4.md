@@ -156,17 +156,6 @@ Feature selection means choosing important features only.
 
 ---
 
-## 4.10 Summary of UNIT 4
-
-- EDA is used to explore data before modeling  
-- Descriptive statistics summarize data  
-- Visualization helps understand patterns  
-- Correlation shows relationships  
-- Outliers must be handled properly  
-- Feature selection improves model quality  
-
----
-
 ## 🎯 Exam-Oriented Questions
 
 1. What is Exploratory Data Analysis?  

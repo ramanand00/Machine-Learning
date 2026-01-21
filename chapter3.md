@@ -194,16 +194,6 @@ Dataset is divided into:
 
 ---
 
-## 3.11 Summary of UNIT 3
-
-- Data is the foundation of ML  
-- Data can be structured or unstructured  
-- Cleaning and preprocessing are essential  
-- Encoding converts text to numbers  
-- Proper data splitting avoids overfitting  
-
----
-
 ## 🎯 Exam-Oriented Questions
 
 1. What is data preprocessing?  

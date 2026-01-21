@@ -132,15 +132,6 @@ Copy code
 
 ---
 
-## 11.10 Summary of UNIT 11
-
-- NLP deals with **understanding and processing human language**  
-- Preprocessing includes **tokenization, stemming, lemmatization**  
-- Text must be converted to numerical features (**BoW, TF-IDF, embeddings**)  
-- Applications include **chatbots, translation, sentiment analysis**  
-
----
-
 ## 🎯 Exam-Oriented Questions
 
 1. Define NLP.  

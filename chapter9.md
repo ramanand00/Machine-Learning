@@ -135,16 +135,6 @@ Training uses **forward propagation** and **backpropagation**.
 
 ---
 
-## 9.10 Summary of UNIT 9
-
-- Deep Learning is a subset of ML using **neural networks**  
-- ANN has **input, hidden, and output layers**  
-- Activation functions introduce **non-linearity**  
-- CNN for **images**, RNN/LSTM for **sequential data**  
-- Requires **large datasets** and **GPUs**  
-
----
-
 ## 🎯 Exam-Oriented Questions
 
 1. Define Deep Learning.  

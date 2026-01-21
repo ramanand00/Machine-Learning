@@ -148,16 +148,6 @@ Ensemble learning is mainly divided into three types:
 
 ---
 
-## 8.11 Summary of UNIT 8
-
-- Ensemble learning combines **multiple models**  
-- **Bagging** reduces variance  
-- **Boosting** reduces bias  
-- **Random Forest** is the most popular ensemble model  
-- **XGBoost** is widely used in industry  
-
----
-
 ## 🎯 Exam-Oriented Questions
 
 1. What is ensemble learning?  

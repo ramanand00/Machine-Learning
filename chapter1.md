@@ -120,16 +120,6 @@ AI ⊃ ML ⊃ Deep Learning
 
 ---
 
-## 9. Summary of UNIT 1
-
-- Machine Learning allows machines to learn from data  
-- ML is widely used in real-world applications  
-- There are four main types of ML  
-- ML is a subset of AI  
-- Deep Learning is a subset of ML  
-
----
-
 ## 🎯 Exam-Oriented Questions
 
 1. Define Machine Learning.  

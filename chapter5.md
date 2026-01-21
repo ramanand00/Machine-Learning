@@ -200,16 +200,6 @@ Copy code
 
 ---
 
-## 5.9 Summary of UNIT 5
-
-- Uses **labeled data**  
-- Two main types: Regression and Classification  
-- Regression predicts **continuous values**  
-- Classification predicts **categories**  
-- **Model evaluation** is essential  
-
----
-
 ## 🎯 Exam-Oriented Questions
 
 1. Define supervised learning.  

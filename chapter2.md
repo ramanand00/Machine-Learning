@@ -182,17 +182,6 @@ Improves problem-solving skills
 
 Required for real-world ML projects
 
-2.4 Summary of UNIT 2
-Mathematics is the backbone of ML
-
-Linear Algebra represents data
-
-Probability & Statistics analyze uncertainty
-
-Python is the primary language for ML
-
-Libraries simplify ML implementation
-
 🎯 Exam-Oriented Questions
 Why is mathematics important in Machine Learning?
 

@@ -107,16 +107,6 @@ CNNs are the most popular deep learning models for images.
 
 ---
 
-## 12.10 Summary of UNIT 12
-
-- Computer Vision deals with **images and videos**  
-- Images are represented as **numerical matrices**  
-- **Preprocessing** and **feature extraction** improve performance  
-- **CNNs** are the key deep learning models for image tasks  
-- Applications include **face recognition, object detection, and medical imaging**  
-
----
-
 ## 🎯 Exam-Oriented Questions
 
 1. Define Computer Vision.  
